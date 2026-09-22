@@ -20,11 +20,22 @@ The analysis focuses on transforming transactional data into business insights u
 - Regional analysis
 - Demand patterns
 
+
 ## 🗂️ Dataset
 
 The project uses the Olist Brazilian E-Commerce Dataset, documented through a custom data dictionary.
 
 The database contains 11 tables, covering areas such as customers, orders, order items, products, sellers, payments, reviews, and supporting data.
+
+
+## 🗃️ Raw Dataset
+
+The raw dataset is hosted on Google Drive because the files are too large for direct upload to this GitHub repository.
+
+👉 **[Access / Download Raw Dataset](https://drive.google.com/file/d/1Lx56GUIczrI3VMszoIgjl2414eKxh5NR/view?usp=sharing)**
+
+> The dataset is provided separately for users who want to reproduce or explore the SQL analysis.
+
 
 ## 🔎 Business Questions
 
