@@ -124,10 +124,12 @@ Analysis of seller/customer states and the month with the highest order volume.
 
 ## 📚 Documentation
 
-- SQL Queries: Contains all SQL queries used for the analysis.
-- Business Questions: Contains the questions and business context behind each analysis.
-- Data Dictionary: Documents database tables, columns, data types, null percentages, and column descriptions.
-- Screenshots: Contains selected query outputs and analysis results.
+| Resource | Description |
+|---|---|
+| [SQL Queries](SQL/amazon_queries.sql) | SQL queries used for the analysis |
+| [Business Questions](Documentation/Amazon_Brazil_SQL_Questions.md) | Business questions and business context |
+| [Data Dictionary](Documentation/amazon_data_dictionary.txt) | Database tables, columns, data types and descriptions |
+| [Screenshots](Screenshots/) | Selected SQL query results |
 
 ## 💡 Key Learning Outcomes
 
