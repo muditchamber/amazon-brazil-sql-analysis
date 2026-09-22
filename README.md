@@ -69,24 +69,30 @@ The database contains 11 tables, covering areas such as customers, orders, order
 
 ## 📁 Project Structure
 
+```text
 amazon-brazil-sql-analysis/
 │
 ├── README.md
+├── .gitignore
+├── amazon_data_dictionary.txt
 │
 ├── SQL/
 │   └── amazon_queries.sql
 │
 ├── Documentation/
-│   ├── Amazon_Brazil_SQL_Questions.md
-│   └── amazon_data_dictionary.txt
+│   └── Amazon_Brazil_SQL_Questions.md
 │
 └── Screenshots/
-    ├── 01-seller-state-orders.png
-    ├── 02-payment-analysis.png
-    ├── 03-top-product-categories.png
-    ├── 04-median-delivery-time.png
-    ├── 05-highest-spending-customer.png
-    └── 06-state-review-analysis.png
+    ├── amazon_query1.png
+    ├── amazon_query2.png
+    ├── amazon_query3.png
+    ├── amazon_query4.png
+    ├── amazon_query5.png
+    ├── amazon_query6.png
+    ├── amazon_query7.png
+    └── amazon_query8.png
+
+```
 
 ## 📊 Analysis Areas
 
@@ -131,11 +137,40 @@ Analysis of seller/customer states and the month with the highest order volume.
 | [Data Dictionary](Documentation/amazon_data_dictionary.txt) | Database tables, columns, data types and descriptions |
 | [Screenshots](Screenshots/) | Selected SQL query results |
 
+
+## 📸 Project Screenshots
+
+### SQL Query 1
+![Amazon SQL Query 1](Screenshots/amazon_query1.png)
+
+### SQL Query 2
+![Amazon SQL Query 2](Screenshots/amazon_query2.png)
+
+### SQL Query 3
+![Amazon SQL Query 3](Screenshots/amazon_query3.png)
+
+### SQL Query 4
+![Amazon SQL Query 4](Screenshots/amazon_query4.png)
+
+### SQL Query 5
+![Amazon SQL Query 5](Screenshots/amazon_query5.png)
+
+### SQL Query 6
+![Amazon SQL Query 6](Screenshots/amazon_query6.png)
+
+### SQL Query 7
+![Amazon SQL Query 7](Screenshots/amazon_query7.png)
+
+### SQL Query 8
+![Amazon SQL Query 8](Screenshots/amazon_query8.png)
+
+
 ## 💡 Key Learning Outcomes
 
 Through this project, I practiced using SQL to solve practical business problems involving relational data.
 
 The project particularly focuses on combining multiple tables and applying analytical SQL techniques such as joins, CTEs, window functions, aggregation, ranking, and date-based analysis.
+
 
 ## 🧰 Tools
 
